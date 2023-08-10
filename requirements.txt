@@ -1,3 +1,2 @@
 streamlit
-openai
-openapi
+hugchat==0.0.8
