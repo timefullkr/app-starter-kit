@@ -1,5 +1,5 @@
 import streamlit as st
-import openapi
+import openai
 
 st.title('🎈 App Name1111')
 
